@@ -7,5 +7,3 @@ The Instagram project of Developers.Institute.
 - [x] Animate the background :boom:
 
  :trophy: :trophy: :trophy:
-
-![alt text](LiseNakache.github.com/Instagram-DI/Images/DI-logo.jpg)
