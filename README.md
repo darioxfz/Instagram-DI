@@ -1,6 +1,6 @@
 # Instagram-DI :computer:
 
-The Instagram project of Developers.Institute. ![di-logo](https://user-images.githubusercontent.com/30896388/41608241-b35d7a3a-73f0-11e8-99a9-2a1cea011ac3.png)
+The Instagram project of ![di-logo](https://user-images.githubusercontent.com/30896388/41608241-b35d7a3a-73f0-11e8-99a9-2a1cea011ac3.png)
 
 ## What does this website do ?
 - [x] Display Pictures :tada:
