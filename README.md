@@ -11,6 +11,7 @@ The Instagram project of ![di-logo](https://user-images.githubusercontent.com/30
  ## This part of the IntagramDI project includes : 
  - [x] HTML
  - [x] CSS
+ - [x] Bootstrap
 
 ## To move on to the next part that includes :
 - [x] Javascript
